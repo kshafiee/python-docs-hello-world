@@ -30,6 +30,5 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/b1838202-0929-45e3-9e8e-d83c96d0e550/resourceGroups/testWebApp/providers/Microsoft.Web/sites/testWebAppLinuxPython",
     "appService.deploySubpath": "."
 }
